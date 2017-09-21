@@ -10,7 +10,7 @@
         <record id="sequence" model="ir.sequence">
             <field name="name">partner</field>
             <field name="code">partner.internal.code</field>
-            <field name="padding">4</field>
+            <field name="padding">6</field>
         </record>
 
     </data>
