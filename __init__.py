@@ -1,1 +1,1 @@
-import res_partner_model
+import models

@@ -20,8 +20,8 @@
 
     # always loaded
     'data': [
-        'res_partner_view.xml',
-        'res_partner_data.xml'
+        'data/ir_sequence.xml',
+        'views/res_partner.xml'
     ],
 
     # only loaded in demonstration mode
