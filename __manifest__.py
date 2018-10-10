@@ -8,6 +8,7 @@
     """,
 
     'author': "Cogito",
+    'license': "OPL-1",
     'website': "https://www.cogitoweb.it",
 
     'category': 'Tools',
