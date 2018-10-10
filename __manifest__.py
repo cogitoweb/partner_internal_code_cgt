@@ -4,10 +4,10 @@
     'summary': "Partner Internal Code",
 
     'description': """
-        Partner Internal Code, based on https://github.com/ingadhoc/partner/tree/9.0/partner_internal_code
+        Partner Internal Code
     """,
 
-    'author': "CogitoWeb",
+    'author': "Cogito",
     'website': "https://www.cogitoweb.it",
 
     'category': 'Tools',
